@@ -20,8 +20,3 @@ Product APIs:
 3- delete product ( product owner only)
 4- get all products with their owner's information (populate )
 5- get product by id
-
-
-search points :
-1-difference between operators ( eq , in , nin , ne )
-الديدلاين يوم الخميس الساعه 7
